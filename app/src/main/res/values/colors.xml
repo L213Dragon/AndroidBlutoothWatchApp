@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9900</color>
+    <color name="colorPrimaryDark">#ff9900</color>
+    <color name="colorAccent">#FF9900</color>
+
+    <!-- BASE -->
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorWhite">#fafafa</color>
+
+    <color name="colorStatusBar">#b0bdc6</color>
+    <color name="colorToolBar">#eef2f3</color>
+</resources>
